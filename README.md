@@ -1,6 +1,6 @@
 # cadastroSenac
 
-Este repositório é dedicado ao trabalho do Projeto Integrador III do SENAC, envolvendo um grupo de sete membros
+Este repositório é dedicado ao trabalho do Projeto Integrador III do SENAC, vinculado ao curso superior de graduação em Análise e Desenvolvimento de Sistemas, com a participação de sete membros:
 
 * Andressa de Souza Cataruci
 * Cristiano Ricardo Borges
@@ -12,7 +12,7 @@ Este repositório é dedicado ao trabalho do Projeto Integrador III do SENAC, en
 
 ## Objetivo
 
-Sistema de cadastro criado para a universidade SENAC, com o objetivo de cadastrar:
+O objetivo do projeto é a criação de um sistema de cadastro criado para a gestão escolar da universidade SENAC, com o objetivo de cadastrar:
 
 * Pessoa física (aluno e professor)
 * Pessoa jurídica
