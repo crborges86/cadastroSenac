@@ -174,15 +174,15 @@ UC007 - Tela 1: localizar pessoas físicas e jurídicas
 
 UC007 - Tela 2: consulta de cadastro pessoa física
 
-![UC007  Consultar cadastro de pessoas físicas e jurídicas-1](https://github.com/crborges86/cadastroSenac/assets/143454517/dfca2b2b-f6a6-458c-8986-2b34147fe5be)
+![UC007  Consultar cadastro de pessoas físicas e jurídicas-2](https://github.com/crborges86/cadastroSenac/assets/143454517/44c30cfa-ecc5-44e8-b200-7def3b7dd359)
 
 UC007 - Tela 3: consulta de cadastro pessoa jurídica
 
-![UC007  Consultar cadastro de pessoas físicas e jurídicas-2](https://github.com/crborges86/cadastroSenac/assets/143454517/44c30cfa-ecc5-44e8-b200-7def3b7dd359)
+![UC007  Consultar cadastro de pessoas físicas e jurídicas-3](https://github.com/crborges86/cadastroSenac/assets/143454517/23c09a90-1fff-40f8-be21-ffdfdfdc8cbc)
 
 UC007 - Tela 4: cadastro não encontrado
 
-![UC007  Consultar cadastro de pessoas físicas e jurídicas-3](https://github.com/crborges86/cadastroSenac/assets/143454517/23c09a90-1fff-40f8-be21-ffdfdfdc8cbc)
+![UC007  Consultar cadastro de pessoas físicas e jurídicas-1](https://github.com/crborges86/cadastroSenac/assets/143454517/dfca2b2b-f6a6-458c-8986-2b34147fe5be)
 
 ### Inativar usuários
 
