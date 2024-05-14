@@ -138,9 +138,15 @@ Protótipos relacionados ao caso de uso “UC005 - Ativar usuários”, demonstr
 
 UC005 - Tela 1: validação de documentos para ativar usuários
 
+![UC005  Ativar usuários](https://github.com/crborges86/cadastroSenac/assets/143454517/5ca8f8ea-387c-4c81-bc9c-21cb4fa1280d)
+
 UC005 - Tela 2: revisão dos dados para ativar cadastro
 
+![UC005  Ativar usuários-1](https://github.com/crborges86/cadastroSenac/assets/143454517/12dd17b5-cd59-4971-85a6-96ee059f442f)
+
 UC005 - Tela 3: confirmação usuário ativado
+
+![UC005  Ativar usuários-2](https://github.com/crborges86/cadastroSenac/assets/143454517/8d03dd70-c0b9-48bf-8fcf-7a7e1b9e6944)
 
 ### Atualizar cadastro
 
