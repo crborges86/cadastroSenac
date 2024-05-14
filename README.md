@@ -263,9 +263,8 @@ Protótipos relacionados ao caso de uso “UC012 - Consultar perfil do aluno”,
 
 UC012 - Tela 1: perfil professor
 
-![UC012  Consultar perfil de aluno-1](https://github.com/crborges86/cadastroSenac/assets/143454517/e8662c7c-0d74-44cf-8481-2c4d568b82e7)
+![UC012  Consultar perfil de aluno](https://github.com/crborges86/cadastroSenac/assets/143454517/8671ce23-6e8b-4860-9a40-392a4b675b05)
 
 UC012 - Tela 2: lista de alunos vinculados
 
-![UC012  Consultar perfil de aluno](https://github.com/crborges86/cadastroSenac/assets/143454517/8671ce23-6e8b-4860-9a40-392a4b675b05)
-
+![UC012  Consultar perfil de aluno-1](https://github.com/crborges86/cadastroSenac/assets/143454517/e8662c7c-0d74-44cf-8481-2c4d568b82e7)
