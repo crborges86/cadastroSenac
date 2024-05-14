@@ -1,8 +1,6 @@
 # cadastroSenac
 
-Repositório destinado ao trabalho do Projeto Integrador III do SENAC.
-
-O grupo de trabalho é composto por 7 integrantes:
+Este repositório é dedicado ao trabalho do Projeto Integrador III do SENAC, envolvendo um grupo de sete membros
 
 * Andressa de Souza Cataruci
 * Cristiano Ricardo Borges
