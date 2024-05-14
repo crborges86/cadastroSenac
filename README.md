@@ -48,6 +48,8 @@ Neste tópico foi desenvolvido o diagrama de classes como uma ferramenta de mode
 
 ## Protótipos
 
+O desenvolvimento de protótipos de interface com base nos casos de uso é uma etapa crucial para garantir a eficácia e a usabilidade de um sistema. Esses protótipos não apenas visualizam o layout e a estrutura da interface, mas também integram os fluxos de interação delineados nos diagramas de caso de uso, proporcionando uma representação tangível das funcionalidades esperadas. Ao alinhar os protótipos com esses diagramas, o objetivo é criar uma interface que atenda precisamente às necessidades e expectativas dos usuários, promovendo uma experiência intuitiva e eficiente durante a interação com o sistema.
+
 ### Login
 
 Protótipos relacionados ao caso de uso “UC001 - Fazer login”, demonstrando a jornada de login do usuário.
