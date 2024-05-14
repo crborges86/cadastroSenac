@@ -154,9 +154,15 @@ Protótipos relacionados ao caso de uso “UC006 - Atualizar cadastro”, demons
 
 UC006 - Tela 1: atualização de cadastro
 
+![UC006  Atualizar cadastro](https://github.com/crborges86/cadastroSenac/assets/143454517/d676c41b-e490-465c-a023-e32be71ab29f)
+
 UC006 - Tela 2: confirmação cadastro atualizado
 
+![UC006  Atualizar cadastro-1](https://github.com/crborges86/cadastroSenac/assets/143454517/31c06835-1821-4ca0-b323-536c33977473)
+
 UC006 - Tela 3: fluxo alternativo, alteração de nome
+
+![UC006  Atualizar cadastro (fluxo alternativo)](https://github.com/crborges86/cadastroSenac/assets/143454517/c97a4b8b-1dbe-487a-bb9c-83ff59b00d18)
 
 ### Consultar cadastro de pessoas físicas e jurídicas
 
