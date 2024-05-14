@@ -118,11 +118,19 @@ Protótipos relacionados ao caso de uso “UC004 - Validar documentação”, de
 
 UC004 - Tela 1: lista de documentos pendentes de validação
 
+![UC004  Validar documentação](https://github.com/crborges86/cadastroSenac/assets/143454517/4012c98b-cb83-40b8-b237-f3c282b8baab)
+
 UC004 - Tela 2: aprovação ou reprovação
+
+![UC004  Validar documentação-1](https://github.com/crborges86/cadastroSenac/assets/143454517/400a96e6-2c29-41ae-a69a-66f2e837f605)
 
 UC004 - Tela 3: documentação validada
 
+![UC004  Validar documentação-2](https://github.com/crborges86/cadastroSenac/assets/143454517/7265e083-0551-4d8c-a3ce-1782f4a38ba8)
+
 UC004 - Tela 4: documentação reprovada
+
+![UC004  Validar documentação (fluxo alternativo)](https://github.com/crborges86/cadastroSenac/assets/143454517/35c47a55-53f1-42fd-bde5-853ac50c557f)
 
 ### Ativar usuários
 
