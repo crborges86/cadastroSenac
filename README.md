@@ -19,3 +19,9 @@ Sistema de cadastro criado para a universidade SENAC, com o objetivo de cadastra
 * Usuários da universidade
 
 ## Protótipos
+
+
+## Diagrama de casos de uso
+
+
+## Diagrama de classes
