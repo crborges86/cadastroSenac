@@ -15,8 +15,22 @@ Este repositório é dedicado ao trabalho do Projeto Integrador III do SENAC, vi
 O objetivo do projeto é a criação de um sistema de cadastro criado para a gestão escolar da universidade SENAC, com o objetivo de cadastrar:
 
 * Pessoa física (aluno e professor)
-* Pessoa jurídica
-* Usuários da universidade
+* Pessoa jurídica (fornecedor)
+* Funcionários da universidade
+
+O sistema possui as principais funcionalidades:
+
+* Fazer login
+* Visualizar perfil do fornecedor com acesso ao seu cadastro e histórico de negociações
+* Cadastrar fornecedores
+* Solicitação de cadastro por alunos e professores
+* Acesso ao perfil de aluno com visualização de cadastro e solicitação de atualização de dados
+* Acesso ao perfil de professor com visualização de cadastro, solicitação de atualização de dados e consultar o perfil de alunos vinculados
+* Validação de documentação anexa aos cadastros
+* Ativação de usuário
+* Inativação de usuário
+* Consultar cadastro de pessoas físicas e jurídicas
+* Cadastrar usuários para funcionários da universidade
 
 
 ## Diagrama de casos de uso
