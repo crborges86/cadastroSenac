@@ -56,11 +56,20 @@ Protótipos relacionados ao caso de uso “UC001 - Fazer login”, demonstrando 
 
 UC001 - Tela 1: início para login ou solicitar cadastro
 
+![UC001  Fazer login-1](https://github.com/crborges86/cadastroSenac/assets/143454517/6741e4af-cf15-48a3-a75f-f4e05af276f5)
+
 UC001 - Tela 2: login
+
+![UC001  Fazer login](https://github.com/crborges86/cadastroSenac/assets/143454517/4aa1ee06-0736-4f55-b931-40c746ac9409)
 
 UC001 - Tela 3: fluxo alternativo, usuário bloqueado
 
+![UC001  Fazer login (Fluxo alternativo)](https://github.com/crborges86/cadastroSenac/assets/143454517/ce296a53-ad6f-44d9-a869-cccef7ed5edd)
+
 UC001 - Tela 4: tela principal após login do funcionário
+
+![UC001  Tela principal após o login do funcionário](https://github.com/crborges86/cadastroSenac/assets/143454517/d5e9327d-b845-4b18-9ceb-19c65c899108)
+
 
 ### Cadastrar fornecedores
 
