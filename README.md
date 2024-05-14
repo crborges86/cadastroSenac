@@ -12,6 +12,10 @@ Repositório destinado ao trabalho do Projeto Integrador II do SENAC. O grupo co
 
 ## Objetivo
 
-xxx
+Sistema de cadastro criado para a universidade SENAC, com o objetivo de cadastrar:
+
+* Pessoa física (aluno e professor)
+* Pessoa jurídica
+* Usuários da universidade
 
 ## Protótipos
