@@ -93,13 +93,24 @@ Protótipos relacionados ao caso de uso “UC003 - Solicitar cadastro”, demons
 
 UC003 - Tela 1: cadastro de aluno e professor
 
+![UC003  Solicitar cadastro](https://github.com/crborges86/cadastroSenac/assets/143454517/1d19802a-9305-4d9f-a2ce-32407b6bfe96)
+
 UC003 - Tela 2: anexar documentação de aluno
+
+![UC003  Solicitar cadastro-1](https://github.com/crborges86/cadastroSenac/assets/143454517/d73fe4bc-50d2-47eb-91fc-369c093f816b)
 
 UC003 - Tela 3: anexar documentação de professor
 
+![UC003  Solicitar cadastro-2](https://github.com/crborges86/cadastroSenac/assets/143454517/a8102ef7-08a1-4ef7-b57c-e28d2246f83f)
+
 UC003 - Tela 4: confirmação de solicitação
 
+![UC003  Solicitar cadastro-3](https://github.com/crborges86/cadastroSenac/assets/143454517/9e52ce18-65fc-4089-9f9e-56b206f12c82)
+
 UC003 - Tela 5: fluxo alternativo, falta de documentação
+
+![UC003  Solicitar cadastro-4](https://github.com/crborges86/cadastroSenac/assets/143454517/1699504f-c580-476d-aa26-e248ad44bc30)
+
 
 ### Validar documentação
 
