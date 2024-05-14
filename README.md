@@ -10,4 +10,8 @@ Repositório destinado ao trabalho do Projeto Integrador II do SENAC. O grupo co
 * Lorenzo de Lima Pandolfo
 * Rafael Sangiorgio Muniz
 
+## Objetivo
 
+xxx
+
+## Protótipos
