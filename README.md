@@ -190,11 +190,20 @@ Protótipos relacionados ao caso de uso “UC008 - Inativar usuários”, demons
 
 UC008 - Tela 1: localizar usuário para inativar
 
+![UC008  Inativar usuários](https://github.com/crborges86/cadastroSenac/assets/143454517/a9dacf44-8964-4bec-8b94-02a7e1942482)
+
 UC008 - Tela 2: revisão dos dados para seguir com inativação
+
+![UC008  Inativar usuários-3](https://github.com/crborges86/cadastroSenac/assets/143454517/3fc42ade-50dc-4187-b681-016a27d24654)
 
 UC008 - Tela 3: confirmação de inativação
 
+![UC008  Inativar usuários-2](https://github.com/crborges86/cadastroSenac/assets/143454517/87e4ef7a-5397-4dee-aad0-a451464a3d7b)
+
 UC008 - Tela 4: fluxo alternativo, cadastro não encontrado
+
+![UC008  Inativar usuários-1](https://github.com/crborges86/cadastroSenac/assets/143454517/01766860-9e60-4e27-9d7f-2e6828d2ee2a)
+
 
 ### Cadastrar usuários para funcionários
 
