@@ -77,10 +77,15 @@ Protótipos relacionados ao caso de uso “UC002 - Cadastrar fornecedores”, de
 
 UC002 - Tela 1: cadastro de fornecedor
 
+![UC002  Cadastrar fornecedores](https://github.com/crborges86/cadastroSenac/assets/143454517/45440fa0-6026-4750-ab68-b7e2ac1ef3f1)
+
 UC002 - Tela 2: confirmação de cadastro de fornecedor
+
+![UC002  Cadastrar fornecedores (Confirmação)](https://github.com/crborges86/cadastroSenac/assets/143454517/2d27617a-ec70-44c1-b6ec-b6f508e8974b)
 
 UC002 - Tela 3: fluxo alternativo, dados incompletos
 
+![UC002  Cadastrar fornecedores (Fluxo alternativo)](https://github.com/crborges86/cadastroSenac/assets/143454517/38d4592e-4b4a-4974-906b-a3e60a295ea2)
 
 ### Solicitar cadastro
 
