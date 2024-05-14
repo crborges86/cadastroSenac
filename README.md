@@ -35,9 +35,13 @@ O sistema possui as principais funcionalidades:
 
 ## Diagrama de casos de uso
 
+Neste tópico será apresentado a construção de um diagrama de casos de uso, uma ferramenta essencial da UML (Unified Modeling Language), destinada a capturar os requisitos e interações de um sistema de gestão escolar abrangente. O foco recai sobre a representação dos diferentes tipos de usuários e suas ações no sistema, delineando as nuances do cadastro de informações para uma variedade de entidades cruciais: desde os alunos, professores e fornecedores até as pessoas físicas e jurídicas associadas à instituição.
+
 ![Diagramacasosuso](https://github.com/crborges86/cadastroSenac/assets/143454517/e8d7b7a2-c579-4e64-ba71-14c2bb9b5b3b)
 
 ## Diagrama de classes
+
+Neste tópico foi desenvolvido o diagrama de classes como uma ferramenta de modelagem de sistemas orientados a objetos, sendo representado no diagrama as classes, atributos, métodos e relacionamentos entre classes, enfatizando sua relevância no contexto do sistema de gestão escolar.
 
 ![Diagrama_de Classes](https://github.com/crborges86/cadastroSenac/assets/143454517/5512ed7c-21e6-483a-bf06-f090fc46949c)
 
