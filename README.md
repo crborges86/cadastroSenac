@@ -1,6 +1,8 @@
 # cadastroSenac
 
-Repositório destinado ao trabalho do Projeto Integrador II do SENAC. O grupo contém 7 integrantes:
+Repositório destinado ao trabalho do Projeto Integrador II do SENAC.
+
+O grupo de trabalho é composto por 7 integrantes:
 
 * Andressa de Souza Cataruci
 * Cristiano Ricardo Borges
