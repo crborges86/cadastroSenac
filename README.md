@@ -1,6 +1,6 @@
 # cadastroSenac
 
-Repositório destinado ao trabalho do Projeto Integrador II do SENAC.
+Repositório destinado ao trabalho do Projeto Integrador III do SENAC.
 
 O grupo de trabalho é composto por 7 integrantes:
 
