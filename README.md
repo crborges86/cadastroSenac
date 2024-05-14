@@ -251,7 +251,11 @@ Protótipos relacionados ao caso de uso “UC011 - Visualizar perfil”, demonst
 
 UC011 - Tela 1: perfil de aluno
 
+![UC011  Visualizar perfil](https://github.com/crborges86/cadastroSenac/assets/143454517/024663c8-5065-4802-b164-fcd23245ea91)
+
 UC011 - Tela 2: fluxo alternativo, acesso inativado
+
+![UC011  Visualizar perfil-1](https://github.com/crborges86/cadastroSenac/assets/143454517/1a5471e4-91e4-4b98-bbb9-eb093c72520c)
 
 ### Consultar perfil do aluno
 
