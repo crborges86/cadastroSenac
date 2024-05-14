@@ -211,9 +211,15 @@ Protótipos relacionados ao caso de uso “UC009 - Cadastrar usuários para func
 
 UC009 - Tela 1: cadastro de usuários para funcionários
 
+![UC009  Cadastrar usuário para funcionários](https://github.com/crborges86/cadastroSenac/assets/143454517/ee8433ff-462f-4d21-9ef9-011ae3dcc3ed)
+
 UC009 - Tela 2: usuário cadastrado
 
+![UC009  Cadastrar usuário para funcionários-1](https://github.com/crborges86/cadastroSenac/assets/143454517/b57aa68b-6ef1-4db0-a834-45e3ecf338c3)
+
 UC009 - Tela 3: fluxo alternativo, dados incompletos
+
+![UC009  Cadastrar usuário para funcionários-2](https://github.com/crborges86/cadastroSenac/assets/143454517/4423a0c5-9d58-476c-bfea-be7d8f3b99f2)
 
 ### Visualizar perfil com histórico de negociações
 
