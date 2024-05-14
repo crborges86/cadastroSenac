@@ -231,15 +231,15 @@ UC010 - Tela 1: tela após login pessoa jurídica
 
 UC010 - Tela 2: dados cadastrais pessoa jurídica
 
-![UC010  Visualizar perfil com histórico de negociações1](https://github.com/crborges86/cadastroSenac/assets/143454517/232ee986-26a0-4b01-8898-12cc5f0d49ba)
+![UC002  Cadastrar fornecedores3](https://github.com/crborges86/cadastroSenac/assets/143454517/2e0520c4-7b6a-4d3b-b16a-731683688484)
 
 UC010 - Tela 3: histórico de negociações
 
-![UC010  Visualizar perfil com histórico de negociações2](https://github.com/crborges86/cadastroSenac/assets/143454517/7b59973f-1a3b-4e5d-8dbe-b9c6536448f0)
+![UC010  Visualizar perfil com histórico de negociações1](https://github.com/crborges86/cadastroSenac/assets/143454517/232ee986-26a0-4b01-8898-12cc5f0d49ba)
 
 UC010 - Tela 4: detalhamento de negociação
 
-![UC002  Cadastrar fornecedores3](https://github.com/crborges86/cadastroSenac/assets/143454517/2e0520c4-7b6a-4d3b-b16a-731683688484)
+![UC010  Visualizar perfil com histórico de negociações2](https://github.com/crborges86/cadastroSenac/assets/143454517/7b59973f-1a3b-4e5d-8dbe-b9c6536448f0)
 
 UC010 - Tela 5: fluxo alternativo, sem histórico de negociações
 
